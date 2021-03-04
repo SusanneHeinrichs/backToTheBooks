@@ -1,7 +1,7 @@
 {
-  "name": "11ty-bootstrap5",
+  "name": "back-to-the-books",
   "version": "1.0.0",
-  "description": "Minimal 11ty starter with Bootstrap 5 (beta1) and Parcel",
+  "description": "My personal book website with Bootstrap 5 (beta1) and Parcel",
   "private": true,
   "scripts": {
     "start": "cross-env NODE_ENV=development run-p watch:*",
@@ -15,14 +15,14 @@
     "watch:parcel": "parcel watch parcel.js -d ./public/_assets -o main --public-url '/_assets'"
   },
   "keywords": [],
-  "author": "Thomas Hönig",
+  "author": "Susanne Heinrichs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/THoenig/11ty-bs5-starter"
+    "url": "https://github.com/SusanneHeinrichs/backToTheBooks"
   },
   "bugs": {
-    "url": "https://github.com/THoenig/11ty-bs5-starter/issues"
+    "url": "https://github.com/SusanneHeinrichs/backToTheBooks/issues"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
@@ -36,6 +36,7 @@
     "parcel": "^1.12.4",
     "purgecss": "^4.0.0",
     "rimraf": "^3.0.2",
+    "sass": "^1.32.8",
     "scss": "^0.2.4"
   }
 }
