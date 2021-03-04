@@ -1,6 +1,6 @@
-# 11ty-bs5-starter
+# Back to the books
 
-Bootstrap 5 starter for [11ty](https://www.11ty.dev/). Developed with rapid prototyping, easy customization/theming and fast loading times in mind.
+In this repo I am going to build my first website to summarize and categorize the books I have read.
 
 ## Documentations
 - [11ty Static Site Generator](https://www.11ty.dev/docs/)
@@ -9,18 +9,12 @@ Bootstrap 5 starter for [11ty](https://www.11ty.dev/). Developed with rapid prot
 - [Parcel.js](https://parceljs.org/getting_started.html)
 - [PurgeCSS](https://purgecss.com/)
 
-## How to get started
+## Local development
 
-### 1. Clone the repository
-```git clone https://github.com/THoenig/11ty-bs5-starter.git your-project-name```
-
-### 2. cd into project directory
-```cd your-project-name```
-
-### 3. Install dependencies
+### 1. Install dependencies
 ```npm install```
 
-### 4. Run
+### 2. Run
 ```npm start```
 
 Then visit [http://localhost:8080](http://localhost:8080).
