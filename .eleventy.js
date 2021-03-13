@@ -33,6 +33,10 @@ module.exports = function(config) {
     linkify: true
   }
 
+  config.addNunjucksFilter("dateTimeString", function(date) {
+    return date.toLocaleDateString("de-DE");
+  });
+
   config.setLibrary("md",
                     markdownIt(markdownItOptions)
                     .use(markdownItAttrs))
