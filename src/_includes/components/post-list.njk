@@ -1,9 +1,22 @@
-<ul class="list-group list-group-flush col-12 {% if loop.first %} mb-3 {% else %} my-5 {% endif %}">
-{%- for post in collections.post -%}
-    <li class="list-group-item">
-        <div>{{ post.date | dateTimeString }}</div>
-        <a href="{{ post.url | url }}" class="h3 family-emphasis font-weight-bold text-primary mb-1">{{ post.data.title }}</a>
-        <p class="lead mb-1 text-body">{{ post.data.summary }}</p>
-    </li>
-{%- endfor -%}
-</ul>
+
+<div class="row">
+    {%- for post in collections.post -%}
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card">
+            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                <a class="img-link" href="{{ post.url | url }}">
+                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                </a>
+            </div>
+            <div class="card-body">
+            <h5 class="card-title">{{ post.data.title }}</h5>
+            <p class="card-text">
+                {{ post.data.summary }}
+            </p>
+            <a href="{{ post.url | url }}" class="btn btn-primary">Lesen</a>
+            </div>
+        </div>
+    </div>
+    {%- endfor -%}
+</div>
