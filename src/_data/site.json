@@ -1,8 +1,8 @@
 {
   "meta": {
-    "title": "Bootstrap 5 starter for 11ty",
-    "description": "Developed with rapid prototyping and fast loading times in mind."
+    "title": "Back to the Books",
+    "description": "Meine Notizen zu Büchern, die ich gelesen habe."
   },
-  "language": "en",
-  "name": "Bootstrap 5 starter for 11ty"
+  "language": "de",
+  "name": "Back to the Books"
 }

@@ -1,0 +1,9 @@
+<ul class="list-group list-group-flush col-12 {% if loop.first %} mb-3 {% else %} my-5 {% endif %}">
+{%- for post in collections.post -%}
+    <li class="list-group-item">
+        <div>{{ post.date | dateTimeString }}</div>
+        <a href="{{ post.url | url }}" class="h3 family-emphasis font-weight-bold text-primary mb-1">{{ post.data.title }}</a>
+        <p class="lead mb-1 text-body">{{ post.data.summary }}</p>
+    </li>
+{%- endfor -%}
+</ul>
