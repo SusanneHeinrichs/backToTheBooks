@@ -1,7 +1,9 @@
 {
   "meta": {
     "title": "Back to the Books",
-    "description": "Meine Notizen zu Büchern, die ich gelesen habe."
+    "description": "Meine Notizen zu Büchern, die ich gelesen habe.",
+    "author": "Susanne Heinrichs",
+    "keywords": "Bücher, Lesen, Wissenschaft, Politik, Romane"
   },
   "language": "de",
   "name": "Back to the Books"
