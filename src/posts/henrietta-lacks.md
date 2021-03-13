@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Henrietta Lachs
+title: Henrietta Lacks
 summary: Spannendes Buch!
 Published: Created
 Updated: Last Modified
