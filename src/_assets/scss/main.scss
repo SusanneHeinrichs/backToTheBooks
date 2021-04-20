@@ -17,6 +17,21 @@
   background-attachment: fixed;
 }
 
+header{
+  background: url(/src/_assets/images/header.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.navbar{
+  margin-top: 60px;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+}
+
+
+
 .hover-overlay {
   .img-link:focus {
     .mask {
