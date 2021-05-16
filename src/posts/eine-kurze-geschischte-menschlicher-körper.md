@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: Eine kurze Geschichtes des menschlichen Körpers
 author: Bill Bryson
-summary: Eine Reise durch den menschlichen Körper
+summary: von Bill Bryson
 Published: Created
 Updated: Last Modified
 tags: post
@@ -20,7 +20,7 @@ Auch der menschliche Schweiß wird im Buch behandelt und als einer der stäksten
 Ein weiterer eher unangenehmer Aspekt der Haut, ist dass sie manchmal auch ohne erkennbaren Grund juckt. Hier führt Bryson die Geschichte von "Miss M" an, bei der nach einer Gürtelrose ein unerklärbares Jucken an der Kopfhaut aufgetreten ist, was dazu führte, dass sie sich in einer Nacht so stark juckte, dass sie sich durch die Schädeldecke kratzte und am Morgen mit Gehirnflüssigkeit an den Händen aufgewacht ist.
 
 #### Meine Mikroben und ich
-Brson widmet sich in diesem Kapitel dem Zusammenleben zwischem Mikroorganismen und Bakterien. Er beschreibt, dass wir in uns eine riesige Anzahl unterschiedlicher Mikroorganismen (40.000 Arten!) und wie sich unser Alltag mit diesen gestaltet. Anschließend wird die Geschichte der Entdeckung der ersten Bakterien und Viren aufgearbeitet und beschrieben, wie Fleming das erste Antibiotikum (Penicillin) entdeckte. Hierauf folgt meiner Meinung nach die wichtigste Take-Home Message aus diesem Kapitel: Wir haben längst ein großes Problem bei der Behandlung bakterieller Erkrankung, da sich Resistenzen gegen Antibiotika immer weiter verbreiten und bald dazu führen könnten, dass Antibiotika gar keine Wirkung mehr haben. Aber Bryson führt zu meiner Freude auch zwei Hoffnungsschimmer an, die in Zukunft gegen bakterielle Infektionen vermehrt eingesetzt werden können, das sind: 
+Bryson widmet sich in diesem Kapitel dem Zusammenleben zwischem Mikroorganismen und Bakterien. Er beschreibt, dass wir eine riesige Anzahl unterschiedlicher Mikroorganismen (40.000 Arten!) beherbergen und wie sich unser Alltag mit diesen gestaltet. Anschließend wird die Geschichte der Entdeckung der ersten Bakterien und Viren aufgearbeitet und beschrieben, wie Fleming das erste Antibiotikum (Penicillin) entdeckte. Hierauf folgt meiner Meinung nach die wichtigste Take-Home Message aus diesem Kapitel: Wir haben längst ein großes Problem bei der Behandlung bakterieller Erkrankung, da sich Resistenzen gegen Antibiotika immer weiter verbreiten und bald dazu führen könnten, dass Antibiotika gar keine Wirkung mehr haben. Aber Bryson führt zu meiner Freude auch zwei Hoffnungsschimmer an, die in Zukunft gegen bakterielle Infektionen vermehrt eingesetzt werden können, das sind: 
 - Bakteriophagen (Viren, die Bakterien befallen und dabei eine Spezifizität gegenüber Bakterienstämmen aufweisen. Bakteriophagen gehören auch heute schon (vor allem in Georgien) zu den Therapiemöglichkeiten werden aber im Westen kaum bis gar nicht eingesetzt.)
 - Quorum Sensing als Ziel (Das Quorum Sensing ist eine Kommunikationsform der Bakterien, dass es ab einer kritischen Anzahl an Bakterien ermöglicht, zu interagieren und den Organismus anzugreigen. Wenn dieses unterbunden wird erfolgt auch kein Angriff.x)
 
