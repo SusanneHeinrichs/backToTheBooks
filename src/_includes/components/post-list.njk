@@ -1,10 +1,14 @@
 
 <div class="row">
-    {%- for post in collections.post -%}
+    {%- for post in collections.post | reverse -%}
     <div class="col-lg-4 col-md-6 mb-4">
         <div class="card">
             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                {% if post.data.image %}
+                    <img src="../_assets/images/{{ post.data.image }}" class="img-fluid" alt="Buchcover von {{ post.data.title }}" />
+                {% else %}
+                    <div style="height:300px;line-height:300px;background-color:#d5dce2;">Kein Bild vorhanden</div>
+                {% endif %}
                 <a class="img-link" href="{{ post.url | url }}">
                     <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
                 </a>
@@ -14,7 +18,7 @@
             <p class="card-text">
                 {{ post.data.summary }}
             </p>
-            <a href="{{ post.url | url }}" class="btn btn-primary">Lesen</a>
+            <a href="{{ post.url | url }}" class="btn btn--read">Lesen</a>
             </div>
         </div>
     </div>
