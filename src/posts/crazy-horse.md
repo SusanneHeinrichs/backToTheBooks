@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Crazy horse
 author: Till Hein
 summary: von Till Hein
+image: crazy_horse.jpg
 Published: Created
 Updated: Last Modified
 tags: post

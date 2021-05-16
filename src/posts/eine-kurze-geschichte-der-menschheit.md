@@ -3,6 +3,7 @@ layout: layouts/post.njk
 title: Eine kurze Geschichtes der Menschheit
 author: Yuval Noah Harari
 summary: von Yuval Noah Harari
+image: kurze_geschichte_der_menschheit.jpg
 Published: Created
 Updated: Last Modified
 tags: post
