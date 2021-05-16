@@ -8,6 +8,8 @@ Published: Created
 Updated: Last Modified
 tags: post
 ---
+# Eine kurze Geschichte der Menschheit
+**von Yuval Noah Harari**
 
 "Eine kurze Geschichte der Menschheit" von Yuval Noah Harari stand schon lange auf meiner Leseliste, da die Sachbuchautoren Daniel Kahnemann ("Schnelles Denken Langsames Denken")und Rutger Bregman ("Im Grunde gut"), deren Bücher ich klasse fand, dieses Buch in höchsten Tönen loben und auch Freunde es mir immer wieder empfohlen haben. So konnte ich nun auch endlich das gut 500 Seiten umfassende Buch von meiner Leseliste streichen. 
 

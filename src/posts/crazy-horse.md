@@ -8,6 +8,8 @@ Published: Created
 Updated: Last Modified
 tags: post
 ---
+# Crazy horse
+**von Till Hein**
 
 Auf meinem Weg heim komme ich häufig an einem kleinen Buchladen vorbei, in dem seit einiger Zeit das Buch 'Crazy Horse' in der Auslage lag. Dieses verspricht 233 Seiten voll gefüllt mit Wissen über Seepferdchen, was mich gleich angesporchen hat, da ich von der evolutionär einzigartigen Geschlechterverteilung bei den Seepferdchen fasziniert war, wo die Männchen den Nachwuchs gebären und so habe ich mir das Buch spontan auf dem Heimweg geholt.
 Ich muss direkt am Anfang zugeben, dass ich das Buch nicht zu Ende gelesen habe, sondern nur bis zur Seite 173 durchgehalten habe. 
