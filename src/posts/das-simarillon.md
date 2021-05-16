@@ -8,10 +8,6 @@ Published: Created
 Updated: Last Modified
 tags: post
 ---
-
-# Das Simarillon
-**von J. R. R. Tolkien**
-
 Nachdem ich vor kurzem endlich das erste Mal 'Der kleine Hobbit' von Tolkien gelesen habe, war ich im Mittelerde-Fieber und habe mir daraufhin ziemlich schnell das Simarillon bestellt. Im Voraus haben mir Freunde schon gesagt, dass das Simarillon ein ganz schön herausforderndes Werk von Tolkien sei, aber ich dachte mir, wenn es um fantastische Gestalten wie Elben, Zwerge und Drachen geht könnte es schon nicht so langwierig sein.
 
 Auf den ersten Seiten hatte das Simarillon starke Ähnlichkeiten zu der Bibel. Tolkien beschreibt hier in seiner Schöpfungsgeschichte den gottgleichen Schöpfer Eru Iluvatar der die Ainur schafft, von denen einige nach Ea(Mittelerde) gehen, um diese für Erus Kinder (die Elben und Menschen) vorzubereiten. Diese Ainur sind die Valar, die im Geiste Erus handeln. Auf den darauffolgenden Seiten wird beschrieben, wie die meisten Valar viele prächtige Landschaften auf Ea schaffen. Es gibt aber auch einen unter den Valar, genannt Melkor, der den anderen Valar ihre Macht über Mittelerde neidet und alle ihre Werke zerstören will, um selbst über alles zu herrschen.

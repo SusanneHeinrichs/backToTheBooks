@@ -8,10 +8,6 @@ Published: Created
 Updated: Last Modified
 tags: post
 ---
-
-# Herkunft
-**von Saša Stanišić**
-
 Anfangs habe ich von dem Buch eine politische Auseinandersetzung mit dem Jugoslawienkrieg und seinen Folgen erwartet. Stattdessen ist Herkunft ein vielschichtiger Bericht von Saša Stanišićs Familiengeschichte und auch davon was Heimat bedeutet. Es geht um das Leben von Stanišić, welches 1978 in Visegrad, im heutigen Bosnien-Herzegowina beginnt. Mit vierzehn flüchtet er 1991 mit seinen Eltern und Großeltern nach Heidelberg, lernt eine vollkommen fremde Sprache und schließt Freundschaften an der Tankstelle, dem gemeinsamen Jugendtreffpunkt der Einwandererkinder. Nach vielen Jahren reist er zurück zu seinem Geburtsort, besucht seine Großmutter und lernt durch diese und seine zahlreichen Verwandten immer mehr über die Region, die seine Herkunft ist. 
 
 Stanišić schreibt turbulent, die Erzählung von seiner Herkunft wechselt immer wieder in der Zeit, mal berichtet er davon, wie seine Urgroßmutter seinen Großvater kennengelernt hat, dann sitzt man plötzlich mit Stanišić und seinem 3-jährigen Sohn in Deutschland in seinem Garten und hört Erklärungen warum Schriftsteller im Gegensatz zu Baggerfahrer überhaupt ein Beruf sein soll. Mir haben diese Sprünge sehr gut gefallen, sie geben einem ein wenig das Gefühl, dass man den Gedankenfluss des Autors direkt erlebt und das passt für mich gut zu einem Buch, das nicht Fakten aufzählt, sondern mehr ein Bericht von Familienerinnerungen ist. 
