@@ -7,6 +7,7 @@ image: herkunft.jpg
 Published: Created
 Updated: Last Modified
 tags: post
+rating: 5
 ---
 Anfangs habe ich von dem Buch eine politische Auseinandersetzung mit dem Jugoslawienkrieg und seinen Folgen erwartet. Stattdessen ist Herkunft ein vielschichtiger Bericht von Saša Stanišićs Familiengeschichte und auch davon was Heimat bedeutet. Es geht um das Leben von Stanišić, welches 1978 in Visegrad, im heutigen Bosnien-Herzegowina beginnt. Mit vierzehn flüchtet er 1991 mit seinen Eltern und Großeltern nach Heidelberg, lernt eine vollkommen fremde Sprache und schließt Freundschaften an der Tankstelle, dem gemeinsamen Jugendtreffpunkt der Einwandererkinder. Nach vielen Jahren reist er zurück zu seinem Geburtsort, besucht seine Großmutter und lernt durch diese und seine zahlreichen Verwandten immer mehr über die Region, die seine Herkunft ist. 
 

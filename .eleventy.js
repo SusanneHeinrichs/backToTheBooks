@@ -37,6 +37,24 @@ module.exports = function(config) {
     return date.toLocaleDateString("de-DE");
   });
 
+  config.addNunjucksFilter("starRating", function(rating) {
+    let result = '';
+    for (let i = 0; i < rating; i++) {
+      if (i === 0) {
+        result += '<span class="color-orange">'
+      }
+      result += '★';
+      if (i == rating-1) {
+        result += '</span>'
+      }
+    }
+    for (let i = 0; i < 5-rating; i++) {
+      result += '★';
+    }
+    console.log(result)
+    return result;
+  });
+
   config.setLibrary("md",
                     markdownIt(markdownItOptions)
                     .use(markdownItAttrs))

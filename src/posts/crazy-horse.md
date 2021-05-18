@@ -8,6 +8,7 @@ date: Created
 Published: Created
 Updated: Last Modified
 tags: post
+rating: 2
 ---
 Auf meinem Heimweg komme ich häufig an einem kleinen Buchladen vorbei, in dem seit einiger Zeit das Buch 'Crazy Horse' im Schaufenster stand. Das Buch versprach 233 Seiten vollgepackt mit Wissen über Seepferdchen. Durch die in der Evolution einzigartige Geschlechterverteilung der Seepferdchen (hier tragen die Männchen den Nachwuchs aus), konnte ich mir gut vorstellen, dass diese kleinen, aufrechtschwimmenden Fische noch andere spannende Eigenarten haben und so nahm ich mir das Buch spontan mit. 
 

@@ -6,6 +6,7 @@ summary: von Bill Bryson
 Published: Created
 Updated: Last Modified
 tags: post
+rating: 4
 ---
 ## Bauanleitung für einen Menschen
 Im ersten Kapitel weckt Bill Bryson Interesse den menschlichen Körper besser erforschen zu wollen. Am Anfang steht die Frage, was ist der Mensch wert, wenn man seinen Wert daran messen würde, wie viel die Moleküle in seinem Körper wert sind. Wenn man den Menschen so in seine einzelnen Moleküle zerlegt fällt einem erst auf, dass wir einfach eine große Ansammlung von vor allem Sauerstoff, Wasserstoff, Stickstoff, Phosphor und ? sind. Wie also ist es möglich, dass dieser Molekülhaufen zusammen etwas so faszinierendes wie einen lebendigen Menschen schaffen kann? Bryson weckt unser Interesse an den nächsten Kapiteln, indem er uns zum Beispiel erzählt, dass jeden Tag etwa ein bis fünf Zellen in unserem Körper krebsartig werden, aber unser Immunsystem fängt diese direkt ab, ehe wir noch etwas davon merken. 

@@ -14,11 +14,12 @@
                 </a>
             </div>
             <div class="card-body">
-            <h5 class="card-title">{{ post.data.title }}</h5>
-            <p class="card-text">
-                {{ post.data.summary }}
-            </p>
-            <a href="{{ post.url | url }}" class="btn btn--read">Lesen</a>
+                <h5 class="card-title">{{ post.data.title }}</h5>
+                <p class="card-text">
+                    {{ post.data.summary }}
+                </p>
+                <p>{{post.data.rating | starRating | safe }}</p>
+                <a href="{{ post.url | url }}" class="btn btn--read">Lesen</a>
             </div>
         </div>
     </div>
