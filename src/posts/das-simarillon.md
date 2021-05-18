@@ -7,7 +7,7 @@ image: simarillon.jpg
 Published: Created
 Updated: Last Modified
 tags: post
-rating: 3
+rating: 3.5
 ---
 Nachdem ich vor kurzem endlich das erste Mal 'Der kleine Hobbit' von Tolkien gelesen habe, war ich im Mittelerde-Fieber und habe mir daraufhin ziemlich schnell das Simarillon bestellt. Im Voraus haben mir Freunde schon gesagt, dass das Simarillon ein ganz schön herausforderndes Werk von Tolkien sei, aber ich dachte mir, wenn es um fantastische Gestalten wie Elben, Zwerge und Drachen geht könnte es schon nicht so langwierig sein.
 

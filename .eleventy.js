@@ -38,21 +38,7 @@ module.exports = function(config) {
   });
 
   config.addNunjucksFilter("starRating", function(rating) {
-    let result = '';
-    for (let i = 0; i < rating; i++) {
-      if (i === 0) {
-        result += '<span class="color-orange">'
-      }
-      result += '★';
-      if (i == rating-1) {
-        result += '</span>'
-      }
-    }
-    for (let i = 0; i < 5-rating; i++) {
-      result += '★';
-    }
-    console.log(result)
-    return result;
+    return `<div class="stars" style="--rating: ${rating};" aria-label="Dieses Buch wurde mit ${rating} von 5 Sternen bewertet."></div>`;
   });
 
   config.setLibrary("md",
