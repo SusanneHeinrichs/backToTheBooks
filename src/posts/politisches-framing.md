@@ -8,7 +8,7 @@ date: Created
 Published: Created
 Updated: Last Modified
 tags: post
-rating: 4
+rating: 3.5
 ---
 
 Die Kognitionswissenschaftlerin Elisabeth Wehling, die in Deutschland unter anderem Bekanntheit durch das "Framing-Gutachten" für den öffentlich-rechtlichen Rundfunk erlangt hat, stellt in ihrem Buch "Politisches Framing" dar, wie unsere Sprache Einfluss auf unser politisches Denken nimmt. 

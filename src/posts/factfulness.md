@@ -6,7 +6,7 @@ summary: von Hans Rösling
 Published: Created
 Updated: Last Modified
 tags: post
-rating: 5
+rating: 4
 ---
 
 Hans Rosling unternimmt mit seinem Buch Factfulness den Versuch, dem Trend entgegen zu wirken, dass unsere Sicht auf die Welt immer negativer wird. 
