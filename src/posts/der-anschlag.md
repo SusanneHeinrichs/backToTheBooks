@@ -1,0 +1,30 @@
+---
+layout: layouts/post.njk
+title: Der Anschlag
+author: Stephen King
+summary: von Stephen King
+image: der_anschlag.jpg
+Published: Created
+Updated: Last Modified
+tags: post
+rating: 4.5
+---
+Was wäre wenn... Zeitreisen möglich wären und wir schreckliche Ereignisse verhindern könnten?
+Stephen King startet in seinem Buch "Der Anschlag" das Experiment und erschafft ein Zeitportal mit dem man immer wieder zu dem gleichen Tag im Jahr 1958 zurückreisen kann und damit die Möglichkeit hätte das Attentat auf John F. Kennedy zu verhindern und so den Lauf der amerikanischen Geschichte für immer zu verändern. 
+
+Die Erzählung beginnt mit dem kürzlich geschiedenen Lehrer Jake Epping, der ein eher unbewegtes, tristes Leben führt, bis Al der Besitzer seines Stammimbisses ihn an einem Abend zu sich einlädt. Doch Al wirkt aufeinmal völlig verändert und sterbenskrank. Der Imbissbesitzer erzählt dem ungläubigen Jake von dem Zeitportal und von seinem Plan das Attentat auf John F. Kennedy zu verhindern und damit hoffentlich den Krieg in Vietnam zu verhindern. 
+Er bittet Jake ihm einen letzten Wunsch zu erfüllen und seinen Plan auszuführen, den er selbst nicht mehr vollenden konnte, da er schwer an Krebs erkrankte. Jake zweifelt zunächst an Als Glaubwürdigkeit und unternimmt daraufhin seine erste Reise in die späten 50er Jahre.
+Er reist bald wieder ins Jahr 2011 zurück und damit sind seine Zweifel ausgeräumt, er will sich aber versichern, dass es überhaupt möglich ist die Geschichte zu verändern.  Deshalb versucht er zunächst ein Jagdunglück, welches ein Mädchen in den Rollstuhl bringt, zu verhindern, sowie einen Familienmord abzuwenden. Hier macht der Protagonist das erste Mal Bekanntschaft mit der Widerstandskraft der Zeit, denn diese will nicht verändert werden und legt jedem der es darauf anlegt Felsbrocken in den Weg. 
+Der Protagonist reist nachdem er in die Vergangenheit eingegriffen hat nocheinmal in die Zukunft, um festzustellen, ob er das Mädchen vor dem Rollstuhl bewahren konnte und die Familie noch lebt. Als er merkt, dass er die Vergangenheit verändern konnte reist er erneut zurück, um bis zum Attentat an Kennedy dort zu leben und dieses abzuwehren. Als er wieder im Jahr 1958 ankommt muss er das Jagdunglück, sowie die Morde erneut verhindern, denn jede neue Zeitreise ist nach der Ansicht Als ein Neuanfang. Dies wird sich im Laufe der Geschichte noch als Fehler herausstellen. 
+Auf den darauffolgenden Seiten, wird vor allem das Leben in den 50er/60er Jahren beschrieben, dabei atmet man den Zeitgeist ein und lernt die schönen Seiten dieser Zeit kennen, sowie die hässlichen Seite die von Diskriminierung und Gewalt geprägt sind. 
+Außerdem macht Jake Epping Bekanntschaft mit vielen verschiedenen Charakteren während er sich auf den 22.11.1962 vorbereitet. Dabei knüpft als Aushilfslehrer neue Freundschaften und verliebt sich schließlich in die Schulbibliothekarin Sadie Dunhill.
+Die Liebe und die Freude am Leben die Jake in der Vergangenheit neu entdeckt wird dabei immer wieder durch den Tanz zu einem Big Band Klassiker von Glenn Miller verkörpert, welche man gut nachvollziehen kann, wenn man sich "In the Mood" anhört und an die glücklichen Charaktere denkt, die nur noch zu der Musik leben.  Die Figuren werden von King so genau gezeichnet, dass man das Gefühl hat ihnen tatsächlich zu begegnen und die klare Beschreibung des Lebens in den goldenen Jahren Amerikas macht auch einen großen Teil der Faszination dieser Erzählung aus und erweckt die Daten aus den Geschichtsbüchern zum Leben.
+Während Jake Epping eine neue Heimat findet zieht sich das Buch etwas hin, aber man wartet weiterhin gebannt auf das große Finale, das aber auf sich warten lässt. Die Verhinderung des Anschlages ist dann um so gelungener, da man durch die Zuwehrsetzung der Vergangenheit bis zum Ende nicht weiß, ob es tatsächlich gelingen wird. Obwohl Jake Epping zu jedem Zeitpunkt versucht seinen Plan alleine umzusetzen helfen ihm schließlich seine Freunde und vor allem Sadie, die die Abwendung des Attentats schließlich mit ihrem Leben bezahlt.
+Als Jake schließlich wieder in die Zukunft reist stellt sich heraus, dass JFKs Überleben die Zukunft massiv zum Schlechteren verändert hat. Der Zeitreisende findet nun heraus, dass nicht jede Zeitreise ein Neuanfang ist, sondern immer neue Zeitstränge geschaffen werden von denen in der aktuellen Zeit Rückstände übrig bleiben, die im schlimmsten Fall die Realität zerstören können. 
+Zunächst will Jake nun nur zurück in die 50er Jahre um Sadie wieder zum Leben zu erwecken und erneut ihre Liebe zu gewinnen, doch er ist zerissen zwischen dem Wunsch mit ihr zusammen zu sein und dem Wissen das jede Veränderung der Vergangenheit die Zukunft gefährden kann. 
+Schließlich entscheidet er sich dafür die Zukunft zu retten und reist in seine eigene Zeit zurück. Dort trifft er schließlich wieder auf die gealterte Sadie, die sich (wahrscheinlich durch die Rückstände) dunkel an ihn erinnern kann und sie tanzen nocheinmal gemeinsam.
+
+Insgesamt fand ich das Buch ziemlich gut und reihe es für mich in die Liste der lesenswerten King Werke ein. 
+Das Buch war zwar lang, aber es konnte dadurch die Atmosphäre der 50er/60er Jahre einfangen und einen stetig steigenden Spannungsbogen aufbauen der erst ganz zum Ende hin abfällt. Klasse fand ich auch, dass der Mord der Familie in Derry statt fand und Jake dort auch auf Beverly und Stevie trifft, die gerade das Grauen aus ES zum ersten Mal besiegt haben. Ich hatte auch das Gefühl, dass die verschiedenen geschaffenen Zeitstränge das Stephen King Universum treffend beschreiben, in dem es auch immer wieder Parallelen zwischen Charakteren und Orten gibt als wären sie Harmonien oder Rückstände aus anderen Zeitsträngen. 
+Persönlich muss ich auch sagen, dass ich das Ende dieses Romans in dem die Charaktere ihren Frieden finden, dem typischen Stephen King Ende vorziehe, in dem das Grauen noch in der Nähe lauert, um erneut zu zuzuschlagen. 
+"Der Anschlag" ist kurzgesagt ein spannendes, empfehlenswertes Buch, das auch das etwas ausgelutschte Thema Zeitreisen wieder erfrischend und neu erzählt. 
