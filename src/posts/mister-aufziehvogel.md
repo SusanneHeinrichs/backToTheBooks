@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Mister Aufziehvogel
 author: Haruki Murakami
 summary: von Haruki Murakami
-image: mister_aufziehvogel.jpg
+image: mr_aufziehvogel.jpg
 date: Created
 Published: Created
 Updated: Last Modified
