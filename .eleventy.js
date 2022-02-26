@@ -38,7 +38,7 @@ module.exports = function(config) {
   });
 
   config.addNunjucksFilter("starRating", function(rating) {
-3    return `<div class="stars" style="--rating: ${rating};" aria-label="Dieses Buch wurde mit ${rating} von 5 Sternen bewertet."></div>`;
+    return `<div class="stars" style="--rating: ${rating};" aria-label="Dieses Buch wurde mit ${rating} von 5 Sternen bewertet."></div>`;
   });
 
   config.setLibrary("md",
