@@ -6,12 +6,12 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development run-p watch:*",
     "build": "cross-env NODE_ENV=production npm-run-all clean --parallel build:* --serial purgecss",
-    "build:eleventy": "eleventy",
+    "build:eleventy": "npx @11ty/eleventy",
     "build:parcel": "parcel build parcel.js -d ./public/_assets -o main --public-url '/_assets' --no-source-maps",
     "clean": "rimraf public/ .cache/",
     "debug": "cross-env DEBUG=Eleventy* NODE_ENV=development run-s start",
     "purgecss": "npx purgecss -c ./purgecss.config.js",
-    "watch:eleventy": "eleventy --serve",
+    "watch:eleventy": "npx @11ty/eleventy --serve",
     "watch:parcel": "parcel watch parcel.js -d ./public/_assets -o main --public-url '/_assets'"
   },
   "keywords": [],
@@ -24,7 +24,7 @@
     "url": "https://github.com/SusanneHeinrichs/backToTheBooks/issues"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^0.12.1",
     "@popperjs/core": "^2.6.0",
     "bootstrap": "^5.0.1",
     "cross-env": "^7.0.3",
