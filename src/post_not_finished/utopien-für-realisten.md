@@ -6,7 +6,7 @@ summary: von Rutger Bregman
 image: simarillon.jpg
 Published: Created
 Updated: Last Modified
-tags: post
+#tags: post
 rating: 4.5
 ---
 

@@ -5,7 +5,7 @@ author: Bill Bryson
 summary: von Bill Bryson
 Published: Created
 Updated: Last Modified
-tags: post
+#tags: post
 rating: 4
 ---
 ## Bauanleitung für einen Menschen

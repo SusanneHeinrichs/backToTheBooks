@@ -5,7 +5,7 @@ author: Hans Rosling, Anna Roslin Rönnlund, Ola Rosling
 summary: von Hans Rösling
 Published: Created
 Updated: Last Modified
-tags: post
+#tags: post
 rating: 4
 ---
 
