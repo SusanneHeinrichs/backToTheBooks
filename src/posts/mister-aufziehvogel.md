@@ -12,6 +12,7 @@ rating: 1.5
 ---
 
 'Mister Aufziehvogel' geriet nur durch Zufall in meine Hände, da ich das Buch in einem der Bonner Bücherschränke entdeckte und ich den Büchern von Haruki Murakami noch eine zweite Chance geben wollte, nachdem mir 'Naokos Lächeln', ein weiteres Buch von Murakami, nur mäßig gefallen hat.
+<br/>
 
 Die Geschichte dreht sich um den eher durchschnittlichen Erzähler Toru Okada, der mit seiner Frau Kumiko ein eher durchschnittliches Leben führt, bis eines Tages der Kater des Paares verschwindet und einige Tage später auch Kumiko plötzlich und ohne eine Nachricht zu hinterlassen nicht nach Hause zurückkehrt. Der Protagonist stolpert daraufhin durch die weitere Geschichte und die folgenden Begegnungen mit verschiedenen, ausgefallenen Persönlichkeiten wirken wie ein Zufall, ohne das Okada daran einen aktiven Anteil hätte.
 Das gesamte Buch liest sich als seien die Lebensgeschichten der im Buch vorkommenden Personen Fäden, die sich plötzlich und unvorhergesehen mit dem Faden von Torus Geschichte kreuzen und dann in ganz andere Richtungen weiter laufen. Nur die Suche nach Kumiko und einem Grund für ihr plötzliches Verschwinden zieht sich als einzig roter Faden durch das gesamte Buch. Die anderen Personen bringen meiner Meinung nach mehr Verwirrung in die Geschichte als das sie zu ihrer Erklärung beitragen. 
