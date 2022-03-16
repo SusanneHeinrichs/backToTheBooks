@@ -8,7 +8,7 @@ date: Created
 Published: Created
 Updated: Last Modified
 tags: post
-rating: 
+rating: 4
 ---
 
 "Das Geisterhaus" ist der Debütroman der chilenischen Autorin Isabel Allende. Ich fand ihn in einer Bücherliste von weiblichen Autorinnen, die man gelesen haben sollte und ich habe ihn kurz darauf auf meine Leseliste gesetzt.
