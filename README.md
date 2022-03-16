@@ -22,7 +22,8 @@ Then visit [http://localhost:8080](http://localhost:8080).
 ## Building for production
 ```npm run build```
 
-This will minify HTML, CSS and JS and purge unused styles.
+This will minify HTML, CSS and JS and purge unused styles and store the output in the `public` directory.
+You can then upload those files to your webserver by adding the items from public folder from finder to the folder httpsdocs in filezilla.
 
 ## Differences from 11ty default config
 While I want to keep things as default as possible, I decided to change the following:
